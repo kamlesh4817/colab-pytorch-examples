@@ -1,0 +1,1 @@
+Tutorial walks through the same y = 2x + 1 problem twice: first with plain PyTorch, where you manually control the training loop, then with PyTorch Lightning, where Trainer handles much of that orchestration. It also includes a side-by-side comparison, mental model, guidance on when to use each, and an exercise.
